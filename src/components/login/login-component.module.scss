@@ -1,0 +1,29 @@
+.pane {
+  background-color: rgba(0, 125, 254, 0.7);
+  height: 90%;
+  width: 90%;
+  max-width: 500px;
+  max-height: 700px;
+  min-height: 400px;
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 0px solid #000000;
+  padding: 5px 15px;
+  margin: 10vh 3vw;
+  color: whitesmoke;
+  padding: 5px 35px;
+}
+
+.header {
+    text-align: center;
+}
+
+.loginImg {
+    width: 40vw;
+    max-width: 700px;
+}
+
+.actionButtonContainer {
+    margin-top: 50px;
+}

@@ -1,0 +1,18 @@
+.container {
+    margin: 20px 0px;
+}
+
+.materialInput {
+  width: 100%;
+  & input {
+    padding: 30px 0px;
+  }
+}
+
+.label {
+    font-size: 1.25rem;
+}
+
+.marginTop {
+    margin-top: 5px;
+}
